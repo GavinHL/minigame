@@ -1,0 +1,1 @@
+minigame is code by python,to learn develope game program.
