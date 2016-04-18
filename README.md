@@ -1,2 +1,2 @@
 # minigame
-nimi game,python code project
+mini game,python code project
